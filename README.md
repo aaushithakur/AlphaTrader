@@ -25,14 +25,6 @@ This is a research project focused on exploring different machine learning appro
 **Prod Strategy:**
 Combining the predictions from all the models gives us the production deployed model. Current production strategy is to give the most weight on RL (PPO) prediction. Take the average of top two actions predicted by PPO agent (which will be buying power for that day). Now if RL agent gives buying power of 0 (as the maximum probability, although there will always be two actions so it wont be zero) but Neural Network/SimpleNN/Transformer predict True, we double the average predicted buying power. If the agent predicts 0 as the highest probability and Transformer/NN/SimpleNN give false, instead of taking average, we just set buying_power to 0.
 
-## Training: First set TICKERS in main_config.py to just 1. ex: ['VUG']
-
-### Refer to: 
-### https://github.com/akshat7101999/AlphaTrader/commit/7dfc2f0bbc82bdaf17ef3ad2298921f622c29c63
-### https://github.com/akshat7101999/AlphaTrader/commit/9480ddd1c6ba03041ad01ed9bba826c4fedb0f73
-### https://github.com/akshat7101999/AlphaTrader/commit/89a39bfd7ce73adf4def5c2f5c2fecab4212bd51
-###  for config changes for new stock training
-
 #### Neural Network
 
 1. First run :
@@ -143,6 +135,7 @@ loss_start_end_days: [(-3.46, 10, 13), (-3.45, 172, 175), (-2.72, 143, 146), (-2
 Contributors names
 
 [@akshat7101999](https://github.com/akshat7101999)
+[@aaushithakur](https://github.com/aaushithakur)
 
 ## Version History
 * 1.0

@@ -1,0 +1,235 @@
+ * Debug mode: off
+Waiting till end of the day to set SELL_FLAG
+The current time in New York is not between 6:56 AM and 7:00 AM.
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731664098.8074439
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+ * Debug mode: off
+Waiting till end of the day to set SELL_FLAGThe current time in New York is not between 6:56 AM and 7:00 AM.
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731665359.4227958
+
+Buying power for BTC-USD is 650.0
+
+Waiting till end of the day to set SELL_FLAGThe current time in New York is not between 6:56 AM and 7:00 AM.
+
+ * Debug mode: off
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731667307.197321
+Buying power for BTC-USD is 650.0
+
+ * Debug mode: off
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731667393.439217
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731667454.0373347
+
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731667514.6987708
+
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731667575.1498194
+Waiting till end of the day to set SELL_FLAG
+The current time in New York is not between 6:56 AM and 7:00 AM.
+ * Debug mode: off
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731668484.880356
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731668546.0510466
+
+Buying power for BTC-USD is 650.0
+
+ * Debug mode: off
+The current time in New York is not between 6:56 AM and 7:00 AM.Waiting till end of the day to set SELL_FLAG
+
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731669436.0669725
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731669496.672672
+
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731669557.3132265
+
+Buying power for BTC-USD is 650.0
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731669617.9933338
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+ * Debug mode: off
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731669947.348146
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670008.4632628
+
+Buying power for BTC-USD is 650.0
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670070.982617
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+ * Debug mode: off
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670248.9962986
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670309.555352
+
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670370.0710332
+
+Buying power for BTC-USD is 650.0
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670430.9742782
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+The current time in New York is not between 6:56 AM and 7:00 AM.
+Waiting till end of the day to set SELL_FLAG
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731670491.51416
+Buying power for BTC-USD is 650.0
+
+[BTC-USD] Script buy prediction NN: [array([False, False, False, False, False, False, False, False, False,
+        True, False,  True, False,  True, False, False, False, False,
+       False,  True, False, False, False, False, False])]
+Open Price can be low tomorrow. Limiting buy price to 500 for BTC-USD
+sleeping as data is written in file
+
+Waiting till end of the day to set SELL_FLAG
+The current time in New York is not between 6:56 AM and 7:00 AM.
+ * Debug mode: off
+
+Current thresholds: profit={'BTC-USD': 3}, loss={'BTC-USD': -0.75}, SELL_FLAG={'BTC-USD': False}
+Current Time:  1731702823.5872934
+Buying power for BTC-USD is 550.0000000000001
+
